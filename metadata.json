@@ -1,0 +1,6 @@
+{
+  "name": "Libra Library Management System",
+  "description": "A high-fidelity glassmorphic library management system for students, teachers, casual readers, and administrators, featuring reading streaks, book tracking, custom dashboards, search filters, and an AI Librarian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
